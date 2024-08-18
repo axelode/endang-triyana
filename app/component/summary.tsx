@@ -11,12 +11,13 @@ const Summary = () => {
                     <div className="ring-primary ring-offset-slate-900 w-24 rounded-full ring ring-offset-2">
                         <img
                             src="https://res.cloudinary.com/dbzdxsmvy/image/upload/v1720216352/profile-pic.jpg"
+                            alt='profile-pic'
                         />
                     </div>
                 </div>
 
                 <p className='text-justify text-white'>
-                    Hello everyone, I'm Endang Triyana, a full-stack developer with less than a year of experience. 20 years old and based in Ciputat, South Tangerang. Mastering javascript and typescript programming languages. Using postgreSQL as database and prism as ORM. Has produced several projects that can be seen on the <Link href={'/projects'} className='text-green-500 font-bold underline'>Projects</Link> page.
+                    Hello everyone, I&apos;m Endang Triyana, a full-stack developer with less than a year of experience. 20 years old and based in Ciputat, South Tangerang. Mastering javascript and typescript programming languages. Using postgreSQL as database and prism as ORM. Has produced several projects that can be seen on the <Link href={'/projects'} className='text-green-500 font-bold underline'>Projects</Link> page.
                 </p>
             </div>
 

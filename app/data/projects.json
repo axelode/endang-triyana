@@ -17,7 +17,7 @@
         "name": "Lakoe",
         "isResponsive": false,
         "time": "June 2024 - July 2024",
-        "description": "An e-commerce website that provides various products. With two roles for users(seller and buyer) that allow transactions between the two.",
+        "description": "An e-commerce website that provides various products. With two roles for user (seller and buyer) that allow transactions between the two.",
         "stacks": "Nest Js, React Js, PostgreSQL, Prisma, Midtrans, Biteship, Leaflet, Nodemailer, Shadcn, Tailwind",
         "attachment": [
             "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723962164/portfolio/lakoe-login.png",

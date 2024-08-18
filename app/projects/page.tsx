@@ -2,7 +2,7 @@
 
 import React from 'react';
 import Navbar from '../component/navbar';
-import Projects from './components/projects';
+import Projects from './components/project';
 import dataProjects from '../data/projects.json';
 import Footer from '../component/footer';
 
