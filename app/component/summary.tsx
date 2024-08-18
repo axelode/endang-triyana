@@ -28,6 +28,7 @@ const Summary = () => {
                     <img
                         src="https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723957781/kompes.png"
                         width={'25%'}
+                        alt='logo'
                     />
 
                     <div className='flex flex-col justify-center items-center'>
@@ -43,6 +44,7 @@ const Summary = () => {
                     <img
                         src="https://res.cloudinary.com/dbzdxsmvy/image/upload/v1716298002/dw.png"
                         width={'25%'}
+                        alt='logo'
                     />
 
                     <div className='flex flex-col justify-center items-center'>
@@ -61,6 +63,7 @@ const Summary = () => {
                     <img
                         src="https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723953987/skills/core-initiative.jpg"
                         width={'25%'}
+                        alt='Core-initiative'
                         className='rounded'
                     />
 

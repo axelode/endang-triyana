@@ -24,8 +24,9 @@ const Skills = () => {
             <div className='flex flex-col items-center justify-center gap-4'>
                 <p className='text-2xl text-white font-bold'>&lt;SKILLS /&gt;</p>
                 <div className='flex flex-wrap justify-center items-center bg-white p-2 rounded'>
-                    {skills.map((data) => (
+                    {skills.map((data, index) => (
                         <img
+                            key={index}
                             src={data}
                             width={'20%'}
                             className='p-2'
