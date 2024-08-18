@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Circle",
+        "isResponsive": false,
+        "time": "May 2024 - July 2024",
+        "description": "A web-based social media application that allows interaction between users through posts.",
+        "stacks": "Typescript, Express Js, React Js, Material UI, Axios, Redux toolkit, PostgreSQL, Prisma, Bcrypt, JWT, Cloudinary, Joi, React Hook Form",
+        "attachment": [
+            "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723960519/portfolio/circle-login.png",
+            "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723960519/portfolio/circle-home.png",
+            "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723960519/portfolio/circle-profile.png"
+        ],
+        "link" : "https://circle-frontend-ten.vercel.app/",
+        "contributor" : []
+    },
+    {
+        "name": "Lakoe",
+        "isResponsive": false,
+        "time": "June 2024 - July 2024",
+        "description": "An e-commerce website that provides various products. With two roles for users(seller and buyer) that allow transactions between the two.",
+        "stacks": "Nest Js, React Js, PostgreSQL, Prisma, Midtrans, Biteship, Leaflet, Nodemailer, Shadcn, Tailwind",
+        "attachment": [
+            "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723962164/portfolio/lakoe-login.png",
+            "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723962163/portfolio/lakoe-seller-dashboard.png",
+            "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723962163/portfolio/lakoe-seller-product.png"
+        ],
+        "link" : "https://b54-lakoe-app-kel2-frontend.vercel.app/",
+        "contributor" : [
+            {
+                "name" : "Bagus Hendrawan",
+                "linkedin" : "https://www.linkedin.com/in/bagus-hendrawan/"
+            },
+            {
+                "name" : "Agik Gigih Sulistyo",
+                "linkedin" : "https://www.linkedin.com/in/agikgigihsulistyo/"
+            },
+            {
+                "name" : "Ikhsan Taufik",
+                "linkedin" : "https://www.linkedin.com/in/ikhsan-taufik/"
+            }
+        ]
+    },
+    {
+        "name": "Product Catalog",
+        "isResponsive": false,
+        "time": "December 2023 - December 2023",
+        "description": "A website with only one page to display product details whose data is retrieved from the API.",
+        "stacks": "Vue Js, HTML, CSS",
+        "attachment": [
+            "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723962457/portfolio/pc-man.png",
+            "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723962457/portfolio/pc-other.png",
+            "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723962457/portfolio/pc-woman.png"
+        ],
+        "link" : "https://product-catalog-self.vercel.app/",
+        "contributor" : []
+    },
+    {
+        "name": "My Movies",
+        "isResponsive": true,
+        "time": "December 2023 - January 2024",
+        "description": "A website that lists popular movies of various genres. Allows users to view detailed information about the movie.",
+        "stacks": "Vue Js, HTML, CSS, Tailwind, Daisy UI",
+        "attachment": [
+            "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723962767/portfolio/mm-dark-mode.png",
+            "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723962767/portfolio/mm-light-mode.png",
+            "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1723962766/portfolio/mm-detail.png"
+        ],
+        "link" : "https://my-movies-vert.vercel.app/",
+        "contributor" : []
+    }
+]
